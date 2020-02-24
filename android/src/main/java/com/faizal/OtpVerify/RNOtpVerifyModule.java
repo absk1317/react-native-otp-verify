@@ -3,7 +3,7 @@ package com.faizal.OtpVerify;
 
 import android.content.BroadcastReceiver;
 import android.content.IntentFilter;
-import android.support.annotation.NonNull;
+import androidx.support.annotation.NonNull;
 import android.util.Log;
 
 import com.facebook.react.bridge.Arguments;
